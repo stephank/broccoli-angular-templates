@@ -1,6 +1,6 @@
 {
     "name": "broccoli-angular-templates",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Inline files as ng-template script tags",
     "license": "MIT",
     "author": "Stéphan Kochen <stephan@kochen.nl>",
