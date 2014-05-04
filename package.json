@@ -1,0 +1,24 @@
+{
+    "name": "broccoli-angular-templates",
+    "version": "0.1.0",
+    "description": "Inline files as ng-template script tags",
+    "license": "MIT",
+    "author": "Stéphan Kochen <stephan@kochen.nl>",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/stephank/broccoli-angular-templates.git"
+    },
+    "keywords": [
+        "broccoli-plugin",
+        "angularjs"
+    ],
+    "devDependencies": {
+        "mkdirp": "0.4",
+        "cheerio": "0.15",
+        "walk-sync": "0.1",
+        "promise-map-series": "0.2",
+        "broccoli-writer": "0.1",
+        "broccoli-kitchen-sink-helpers": "0.2"
+    }
+}
